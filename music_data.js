@@ -1,4 +1,4 @@
-const music = [
+export default const music = [
   {
     id: 0,
     artist: "Damon Albarn",
@@ -49,4 +49,3 @@ const music = [
   },
 ];
 
-export default music;
